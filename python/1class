@@ -1,0 +1,2 @@
+nombre= input("ingrese el nombre:")
+print("hola "+nombre)

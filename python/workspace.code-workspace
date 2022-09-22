@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\.vscode\\extensions\\ms-python.python-2022.0.1814523869"
+		},
+		{
+			"path": "..\\.vscode\\extensions\\ms-python.vscode-pylance-2022.2.4"
+		},
+		{
+			"path": "..\\.vscode\\extensions\\ms-toolsai.jupyter-2022.1.1301854968"
+		},
+		{
+			"path": "..\\.vscode\\extensions\\ms-toolsai.jupyter-keymap-1.0.0"
+		},
+		{
+			"path": "..\\.vscode\\extensions\\ms-toolsai.jupyter-renderers-1.0.6"
+		}
+	]
+}
